@@ -1,7 +1,7 @@
 {
   "id": "t20-jda-cdm",
   "title": "T20 JdA — CDM",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "v12.331"
@@ -39,5 +39,5 @@
   ],
   "flags": {},
   "manifest": "https://raw.githubusercontent.com/magoris19/t20jda-cdm/main/module.json",
-  "download": "https://github.com/magoris19/t20jda-cdm/archive/refs/tags/v1.0.0.zip"
+  "download": "https://github.com/magoris19/t20jda-cdm/archive/refs/tags/v1.1.0.zip"
 }
