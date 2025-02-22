@@ -1,10 +1,10 @@
 {
-  "id": "t20-jda-cdm",
-  "title": "T20 JdA — CDM",
-  "version": "2.1.0",
+  "id": "t20-jda-cdm-dev",
+  "title": "T20 JdA — CDM dev",
+  "version": "1.0.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "v12.331"
+    "minimum": "12",
+    "verified": "12"
   },
   "relationships": {
     "systems": [
@@ -15,11 +15,9 @@
       }
     ]
   },
-  "description": "Conteúdo adicional do T20 JdA (raças, deuses e origens), para utilização em campanhas próprias.\n\nCompartilhamento proibido.",
   "authors": [
     {
       "name": "Magoris",
-      "discord": "magoris",
       "flags": {}
     }
   ],
@@ -44,11 +42,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "tormenta20",
-      "flags": {}
+      "system": "tormenta20"
     }
-  ],
-  "flags": {},
-  "manifest": "https://raw.githubusercontent.com/magoris19/t20jda-cdm/main/module.json",
-  "download": "https://github.com/magoris19/t20jda-cdm/archive/refs/tags/v2.1.0.zip"
+  ]
 }
